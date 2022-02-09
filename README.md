@@ -18,3 +18,7 @@ If you're work requires a lot of interactions with servers, this might be handy.
 <code> 
   set /p password="Enter password: "
 </code>
+
+ I belive this still wins over whole manual process😆.
+ 
+ Thanks 
