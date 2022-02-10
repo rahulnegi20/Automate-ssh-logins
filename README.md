@@ -3,6 +3,8 @@ This repo uses batch file (windows), to automate your tedious ssh logins.
 
 If you're work requires a lot of interactions with servers, this might be handy.
 
+> this [blog](https://rahulnegi20.medium.com/automate-your-ssh-logins-with-this-bat-script-for-your-private-network-5064507087a2) explains this in breief.
+
 ## Requiremets:
 - putty.exe (Download link [here](https://www.putty.org/)])
 
